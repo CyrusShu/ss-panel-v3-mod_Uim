@@ -79,7 +79,10 @@
                       <!--标签1开始-->
                       <article id="1">
                       <h2 class="major">简介</h2>
-                      <p>这里是示范文字</p><p> 请到站点文件夹</p><p>resources/views/material/index.tpl</p><p>第79行进行修改</p></article>
+                      <p>鱼游四海</p>
+                      <p>鸟飞五洲</p>
+                      <p>swimbirds</p>
+                      <p>助你飞翔</p></article>
 					  <!--
 					  简介修改示例: 
 					  <p> 123</p>
@@ -148,7 +151,7 @@
                               </div>
                      <!-- 版权底部 -->
                       <footer id="footer">
-                   <p class="copyright">&copy;2015-2017 {$config["appName"]}</p>
+                   <p class="copyright">&copy;2007-2018 {$config["appName"]}</p>
                       </footer>
               <!-- 版权结束 -->
 			 </div>
